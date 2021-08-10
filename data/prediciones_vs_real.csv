@@ -1,0 +1,2155 @@
+cnn2,cnn1,vgg16,resnet50,test
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Hyperplastic,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Normal mucosa,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Hyperplastic,Adenoma,Adenoma
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Normal mucosa,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Hyperplastic,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Adenoma,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Lymphangiectasia,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Hyperplastic,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Normal mucosa,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Normal mucosa,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Normal mucosa,Lymphangiectasia
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Hyperplastic,Ulcer
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Adenoma,Lymphangiectasia,Hyperplastic,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Hyperplastic,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Ulcer,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Adenoma,Adenoma,Hyperplastic,Adenoma
+Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Adenoma,Ulcer,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Adenoma,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Ulcer,Normal mucosa,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Hyperplastic,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Ulcer,Ulcer,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Hyperplastic,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Hyperplastic,Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Hyperplastic,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Hyperplastic,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Normal mucosa,Ulcer
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Hyperplastic,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Lymphangiectasia,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Lymphangiectasia,Adenoma,Lymphangiectasia,Hyperplastic,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Ulcer,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Lymphangiectasia
+Ulcer,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Adenoma,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Adenoma,Adenoma,Ulcer,Adenoma
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Adenoma,Adenoma,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Ulcer,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Hyperplastic,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Normal mucosa,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Adenoma,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Adenoma,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Normal mucosa,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Adenoma,Lymphangiectasia,Adenoma,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Hyperplastic,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Adenoma,Hyperplastic,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Adenoma,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Normal mucosa,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Ulcer,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Adenoma,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Normal mucosa,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Lymphangiectasia
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Hyperplastic,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Hyperplastic,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Hyperplastic,Adenoma,Adenoma,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Ulcer
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Normal mucosa,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Adenoma,Adenoma,Adenoma,Adenoma
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Adenoma,Adenoma,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Hyperplastic,Hyperplastic,Hyperplastic
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Lymphangiectasia,Lymphangiectasia,Ulcer,Lymphangiectasia
+Adenoma,Adenoma,Adenoma,Adenoma,Adenoma
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Lymphangiectasia,Ulcer,Ulcer,Ulcer,Ulcer
+Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Ulcer,Ulcer,Ulcer,Ulcer,Ulcer
+Lymphangiectasia,Normal mucosa,Normal mucosa,Normal mucosa,Normal mucosa
+Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic,Hyperplastic

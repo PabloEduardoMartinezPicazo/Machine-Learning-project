@@ -1,0 +1,11 @@
+{
+    "project_name":"Programa de reconocimiento de lesiones del tracto digestivo",
+    "author":"Pablo Eduardo Martínez Picazo",
+    "LinkedIn":"https://www.linkedin.com/in/pabloeduardomartinezpicazo/",
+    "e-mail":"pabloeduardo.martinezpicazo@gmail.com",
+    "Project_title":"Programa de reconocimiento de lesiones del tracto digestivo",
+    "flask_port":8080,
+    "Streamlit_port":8501,
+    "Links":"[]",
+    "Python_libraries_used":["pandas","seaborn","sys","os","Tensorflow","plotly.express","plotly.subplots"]
+}
